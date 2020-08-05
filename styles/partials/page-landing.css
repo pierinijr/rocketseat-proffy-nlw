@@ -51,7 +51,7 @@
 
     text-decoration: none;
 
-    transition: background 0.2ms; /* esta sendo aplicado no hover */
+    transition: background 0.2ms; /* Esta sendo aplicado no hover */
 
     color: var(--color-button-text);
 }
@@ -87,7 +87,7 @@
 }
 
 .total-connections img {
-    margin-left: 0.8rem;
+    margin-left: 0.8rem; 
 }
 
 
