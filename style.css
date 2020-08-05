@@ -29,23 +29,18 @@
     box-sizing: border-box;
 }
 
-html,
-body{
+html, body{
     height: 100vh;
 }
 
 body {
-    
     background: var(--color-background);
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-body,
-input,
-button,
-textarea {
+body, input, button, textarea {
     /* font-weight: 500;
     font-size: 1.6rem;
     font-family: Poppins; */
