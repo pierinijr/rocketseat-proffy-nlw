@@ -35,7 +35,6 @@ function pageGiveClasses(req, res) {
     return res.sendFile(__dirname + "/views/give-classes.html")
 }
 
-
 const express = require('express')
 const server = express()
 
