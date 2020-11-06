@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="./.github/logo.svg" alt="proffy" width="180"/>
+   <img src="./.github/logo.svg" alt="proffy" width="300"/>
 </h1>
 
 <p align="center">
