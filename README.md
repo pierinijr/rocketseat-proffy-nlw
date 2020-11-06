@@ -53,8 +53,7 @@ npm i
 npm run dev
 ```
 
-Feito isso, o servidor iniciará na porta 5500.
-Acesse `http://localhost:5500/` no seu navegador.
+Feito isso, o servidor iniciará na porta 5500. Basta acessar `http://localhost:5500/` em seu navegador.
 
 
 
