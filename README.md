@@ -41,10 +41,10 @@ Com os softwares instalados, siga as instruções abaixo:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/pimentajr/proffy-nlw-rocketseat
+git clone https://github.com/pimentajr/rocketseat-proffy-nlw
 
 # Entrar no diretório
-cd proffy-nlw-rocketseat
+cd rocketseat-proffy-nlw
 
 # Baixar as dependências
 npm i
